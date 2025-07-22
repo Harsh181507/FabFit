@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767778670480",
+    "project_id": "fabfit-user",
+    "storage_bucket": "fabfit-user.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767778670480:android:2eba4fcb36c587544b5515",
+        "android_client_info": {
+          "package_name": "com.example.fabfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkciTR-EfjiO_atnU8ZR2NvB7lh8mqO98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
