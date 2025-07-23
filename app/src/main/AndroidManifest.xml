@@ -28,7 +28,7 @@
         </activity>
         <meta-data
             android:name="com.razorpay.ApiKey"
-            android:value=""
+            android:value="Get Your Razorpay "
             />
     </application>
 
