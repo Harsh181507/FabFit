@@ -41,15 +41,15 @@
 ---
 
 ## 🖼️ **Screenshots**
+<img width="280" height="614" alt="image 4" src="https://github.com/user-attachments/assets/0e2efe73-0fae-4989-8281-3c33ab93505e" />
+<img width="280" height="614" alt="image 3" src="https://github.com/user-attachments/assets/e5ea962a-5515-430e-bd54-3aa871ade751" />
+<img width="280" height="614" alt="image 5" src="https://github.com/user-attachments/assets/8ec17532-7382-4f6a-a821-d3194040ceee" />
+<img width="280" height="614" alt="image 2" src="https://github.com/user-attachments/assets/a32efaf7-e56a-4d56-917b-4891468dca38" />
+<img width="280" height="614" alt="image 1" src="https://github.com/user-attachments/assets/9b3eafb5-7993-4700-9b95-97fc225000f2" />
+<img width="280" height="614" alt="Screenshot 2025-07-22 191355" src="https://github.com/user-attachments/assets/a1488d83-c9b4-4f99-97a0-ab0134d08a92" />
+<img width="280" height="614" alt="Screenshot 2025-07-22 191319" src="https://github.com/user-attachments/assets/f5e8b5c4-76a3-4cb3-ac01-494adfc3a668" />
+<img width="280" height="614" alt="image 6" src="https://github.com/user-attachments/assets/69d0af62-6c4d-4846-8120-c7fc7ee2ce39" />
 
-<p align="center">
-  <img src="https://github.com/yourusername/FabFit/raw/main/screenshots/home.jpg" alt="Home Screen" width="250"/>
-  <img src="https://github.com/yourusername/FabFit/raw/main/screenshots/logout.jpg" alt="Logout Dialog" width="250"/>
-  <img src="https://github.com/yourusername/FabFit/raw/main/screenshots/product_detail.png" alt="Product Detail" width="180"/>
-  <img src="https://github.com/yourusername/FabFit/raw/main/screenshots/listing.png" alt="Product Listing" width="180"/>
-</p>
-
----
 
 ## 🗂️ **Project Structure**
 
@@ -167,7 +167,7 @@ It demonstrates best practices in UI, architecture, and cloud integration.
 
 ## 📞 **Contact**
 
-For questions, suggestions, or support, please open an issue or contact [your.email@example.com](mailto:your.email@example.com).
+For questions, suggestions, or support, please open an issue or contact [harsh.sshr@gmail.com](mailto:harsh.sshr@gmail.com).
 
 ---
 
